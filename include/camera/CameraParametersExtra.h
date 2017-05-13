@@ -215,7 +215,7 @@ void CameraParameters::setPreviewFpsRange(int minFPS __unused, int maxFPS __unus
     static const char SCENE_MODE_AR[]; \
     static const char PIXEL_FORMAT_YUV420SP_ADRENO[]; \
     static const char PIXEL_FORMAT_YUV420SP_NV21E[]; \
-    static const char PIXEL_FORMAT_YUV420SP_NV21E[]; \
+    static const char PIXEL_FORMAT_YUV420SP_NV21[]; \
     static const char PIXEL_FORMAT_RAW[]; \
     static const char PIXEL_FORMAT_YV12[]; \
     static const char PIXEL_FORMAT_NV12[]; \
