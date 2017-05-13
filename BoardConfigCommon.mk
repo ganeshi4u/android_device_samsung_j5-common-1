@@ -162,6 +162,9 @@ BOARD_SEPOLICY_DIRS += \
 # Misc.
 TARGET_SYSTEM_PROP := device/samsung/j5-common/system.prop
 
+# Kernel config
+TARGET_KERNEL_SELINUX_CONFIG := selinux_defconfig
+
 # TWRP
 # Display
 TW_THEME := portrait_hdpi
