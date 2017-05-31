@@ -43,10 +43,6 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.bluetooth_le.xml:system/etc/permissions/android.hardware.bluetooth_le.xml \
     frameworks/native/data/etc/android.software.midi.xml:system/etc/permissions/android.software.midi.xml
 
-# Doze
-PRODUCT_PACKAGES += \
-    SamsungDoze
-	
 # Touch issue workaround
 PRODUCT_PACKAGES += \
     InputDisabler
